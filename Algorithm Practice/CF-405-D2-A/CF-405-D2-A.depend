@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529520661 source:c:\users\sarth\documents\codeprojects\algorithm practice\cf-405-d2-a\main.cpp
+	<iostream>
+	<algorithm>
+
